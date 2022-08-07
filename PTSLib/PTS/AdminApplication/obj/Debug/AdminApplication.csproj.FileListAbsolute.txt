@@ -1,0 +1,6 @@
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\AdminApplication\obj\Debug\AdminApplication.csproj.AssemblyReference.cache
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\AdminApplication\obj\Debug\AdminApplication.csproj.SuggestedBindingRedirects.cache
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.cache
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\AdminApplication\obj\Debug\AdminApplication.csproj.CoreCompileInputs.cache

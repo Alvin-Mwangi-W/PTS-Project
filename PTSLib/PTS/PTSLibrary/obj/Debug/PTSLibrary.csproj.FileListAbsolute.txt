@@ -1,0 +1,7 @@
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\bin\Debug\PTSLibrary.dll.config
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\bin\Debug\PTSLibrary.pdb
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\obj\Debug\PTSLibrary.csproj.AssemblyReference.cache
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\obj\Debug\PTSLibrary.csproj.CoreCompileInputs.cache
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\obj\Debug\PTSLibrary.dll
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\obj\Debug\PTSLibrary.pdb
+D:\3.1\Parallel and Distributed systems, BCT 2307\PTS\PTSLibrary\obj\Debug\PTSLibrary.csprojResolveAssemblyReference.cache
